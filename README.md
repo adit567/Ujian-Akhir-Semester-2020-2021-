@@ -88,6 +88,3 @@ print("Keluar")
 ![hasil](foto/hasil.png)
 
 # Terimakasih
-
-# Terimakasih
-!![hasil](foto/hasil.png)
