@@ -2,7 +2,6 @@
 # Nama:Muhammad Rifai Aditiya
 # Nim:312010065
 # Matkul :Bahasa Pemrograman
-![hasil](foto/hasil.png) <br>
 ![tugas](foto/tugas.png)
 * Pada tugas UAS, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 ### Berikut inputannya
@@ -91,3 +90,4 @@ print("Keluar")
 # Terimakasih
 
 # Terimakasih
+!![hasil](foto/hasil.png)
