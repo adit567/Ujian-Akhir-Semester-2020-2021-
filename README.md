@@ -86,3 +86,5 @@ print("Keluar")
 * hasil dari program yang telah dibuat
 
 ![hasil](foto/hasil.png)
+
+# Terimakasih
